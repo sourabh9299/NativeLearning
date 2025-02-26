@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
   container: {
     flexDirection: "row",
     flexWrap: "wrap",
-    justifyContent: "center",
+    justifyContent: "center ",
     margin: 10,
   },
   container2: {
