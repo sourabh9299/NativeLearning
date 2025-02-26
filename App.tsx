@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
     margin: 2,
   },
   card: {
-    height: 120,
+    height: 120 ,
     width: 120,
     margin: 5,
     justifyContent: "center",
